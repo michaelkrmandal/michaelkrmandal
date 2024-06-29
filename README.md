@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkrmandal&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkrmandal" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, PHP, MYSQL and DSA.**
+- 🌱 I’m currently learning **JavaScript, React, MYSQL and DSA.**
 
 - 👯 I’m looking to collaborate on **Interesting Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelkrmandal](https://github.com/michaelkrmandal)
 
-- 💬 Ask me about **Java, C, JavaScript, PHP and MYSQL**
+- 💬 Ask me about **Java, C, JavaScript, NodeJs, ExpressJs, MYSQL and MongoDB**
 
 - 📫 How to reach me **https://linktr.ee/michaelkrmandal**
 
